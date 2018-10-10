@@ -1,5 +1,5 @@
 package goddrinksjava;
-123
+
 /**
  * The program GodDrinksJava implements an application that
  * creates an empty simulated world with no meaning orpurpose.
